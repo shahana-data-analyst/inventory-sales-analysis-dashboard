@@ -42,7 +42,7 @@ This dashboard provides a centralized analytical solution to monitor inventory h
 
 ## 🛠️ Excel Skills & Features Used
 * **Data Cleaning & Transformation:** Power Query, Handling Null Values, Data Standardization.
-* **Formulas & Functions:** VLOOKUP, SUMIFS, COUNTIFS, IF Statements.
+* **Functions:** VLOOKUP. 
 * **Data Modeling & Summary:** Pivot Tables.
 * **Data Visualization:** Pivot Charts, Conditional Formatting, Interactive Slicers, and Timelines.
 
