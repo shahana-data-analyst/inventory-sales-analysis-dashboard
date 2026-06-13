@@ -27,7 +27,7 @@ This dashboard provides a centralized analytical solution to monitor inventory h
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](Images/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 
 ---
